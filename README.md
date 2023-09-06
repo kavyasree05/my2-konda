@@ -12,3 +12,8 @@ __________
 2. Visit the Eravikulam National Park
 3. Enjoy Waterfall Hopping and Scenic Drives
 
+###### Dishes of Food to try in Munnar
+
+*  Kerala Sadya is a traditional vegetarian feast that showcases the diverse flavors of Kerala cuisine
+*  Karimeen Pollichathu is a pearl spot fish, it is a popular fish in Kerala
+*  Appam with Stew is a soft and fluffy pancake made from rice batter and coconut milk
