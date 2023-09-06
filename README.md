@@ -17,3 +17,7 @@ __________
 *  Kerala Sadya is a traditional vegetarian feast that showcases the diverse flavors of Kerala cuisine
 *  Karimeen Pollichathu is a pearl spot fish, it is a popular fish in Kerala
 *  Appam with Stew is a soft and fluffy pancake made from rice batter and coconut milk
+
+*Link to MyStats.md*
+
+[MyStats.md](MyStats.md)
