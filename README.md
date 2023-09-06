@@ -21,3 +21,20 @@ __________
 *Link to MyStats.md*
 
 [MyStats.md](MyStats.md)
+
+__________
+
+###### Sports
+
+Engaging in sports offers numerous benefits, including improved physical fitness, enhanced mental well-being, and the development of essential life skills like teamwork and discipline. Regular participation in sports can also promote a healthier lifestyle and help reduce the risk of chronic illnesses.
+
+| SPORT | WHY TO PLAY? | HOURS PER WEEK |
+| ---------- | ---------- | ---------- |
+| Basketball | Enhances teamwork and cardiovascular health | 5 - 7 Hours |
+| Tennis | Improves agility and hand-eye coordination | 3 - 5 Hours |
+| Swimming | Full-body workout and stress relief | 3 - 4 Hours |
+| Soccer (Football) | Builds endurance and social interaction | 4 - 6 Hours |
+
+__________
+
+
