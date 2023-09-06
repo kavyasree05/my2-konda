@@ -37,4 +37,8 @@ Engaging in sports offers numerous benefits, including improved physical fitness
 
 __________
 
+###### PITHY QUOTES
 
+>*Marie Curie* - "Nothing in life is to be feared, it is only to be understood. Now is the time to understand more, so that we may fear less."<br>
+
+>*Stephen Hawking* - "Remember to look up at the stars and not down at your feet. Try to make sense of what you see and wonder about what makes the universe exist. Be curious."
